@@ -4,10 +4,9 @@ Rápida descrição do objetivo de fazer esse projeto
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **TNETFLIX CLONE**
+| :sparkles: Nome        | **NETFLIX CLONE**
 | :label: Tecnologias | JavaScript, React, HTML, CSS.
-| :rocket: URL         | 
-| :fire: Desafio     |
+
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://github.com/IsaqueAmorim/netflix-clone/blob/main/screenshots/Captura%20de%20tela%202022-03-30%20180835.png#vitrinedev)
