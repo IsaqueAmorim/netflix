@@ -1,17 +1,89 @@
-# Nome do meu projeto
+# NETFLIX CLONE COM REACT
 
 Rápida descrição do objetivo de fazer esse projeto
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **TNETFLIX CLONE**
+| :label: Tecnologias | JavaScript, React, HTML, CSS.
+| :rocket: URL         | 
+| :fire: Desafio     |
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://github.com/IsaqueAmorim/netflix-clone/blob/main/screenshots/Captura%20de%20tela%202022-03-30%20180835.png#vitrinedev)
 
-## Detalhes do projeto
+# ⚛️ Netflix Clone com React-Js
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Olá dev, essa semana me dediquei a esse projeto react que considerei de certa forma até complexo, e fiquei bastante feliz com o resultado. Aprendi bastante no processo de criação desse projeto, pois foram muitos desafios diferentes e vários bugs que tive que resolver, mas que no final me ensinaram muito.
+
+Uma das partes mais incríveis que eu me deparei nesse projeto foi com o consumo da API de filmes (TMDB), foram vários detalhes que me ensinaram muita coisa e me mostraram que CADA DETALHE IMPORTA, porque no consumo de uma API apenas uma letra faz com que toda a requisição seja negada e venha o famoso **404**.
+
+Acabei usando o template da Netflix antes da última grande atualização, pois a API fornecia a capa dos Filmes e Séries na vertical.
+
+# Ferramentas Utilizadas:
+
+- **🔨 Visual Studio Code**
+- **🌎 FireFox**
+- **⚛️ ReactJS**
+- **📒 JavaScript**
+- **📘 CSS**
+- **📙 GIT**
+
+Pacotes Utilizados:
+
+- **➡️ API TMDB**
+- **➡️ React Icons**
+- **➡️ Swiper Slides**
+
+Sites que me Ajudaram:
+
+- **➡️ Rest Test Test...**
+- **➡️ Json Formater**
+- **➡️ Stack Overflow**
+- **➡️ MDN Web Docs**
+
+---
+# ⚛️ Netflix Clone com React-Js
+
+<img src='https://github.com/IsaqueAmorim/netflix-clone/blob/main/screenshots/Header.png'/>
+
+Olá dev, essa semana me dediquei a esse projeto react que considerei de certa forma até complexo, e fiquei bastante feliz com o resultado. Aprendi bastante no processo de criação desse projeto, pois foram muitos desafios diferentes e vários bugs que tive que resolver, mas que no final me ensinaram muito.
+
+Uma das partes mais incríveis que eu me deparei nesse projeto foi com o consumo da API de filmes (TMDB), foram vários detalhes que me ensinaram muita coisa e me mostraram que CADA DETALHE IMPORTA, porque no consumo de uma API apenas uma letra faz com que toda a requisição seja negada e venha o famoso **404**.
+
+Acabei usando o template da Netflix antes da última grande atualização, pois a API fornecia a capa dos Filmes e Séries na vertical.
+
+# Ferramentas Utilizadas:
+
+- **🔨 Visual Studio Code**
+- **🌎 FireFox**
+- **⚛️ ReactJS**
+- **📒 JavaScript**
+- **📘 CSS**
+- **📙 GIT**
+
+Pacotes Utilizados:
+
+- **➡️ API TMDB**
+- **➡️ React Icons**
+- **➡️ Swiper Slides**
+
+Sites que me Ajudaram:
+
+- **➡️ Rest Test Test...**
+- **➡️ Json Formater**
+- **➡️ Stack Overflow**
+- **➡️ MDN Web Docs**
+
+---
+
+<img src='https://github.com/IsaqueAmorim/netflix-clone/blob/main/screenshots/Captura%20de%20tela%202022-03-30%20180835.png?raw=true'/>
+
+# **Header**
+
+➡️Essa parte foi uma das que eu mais gostei, o header conta com um menu que observa a barra de rolagem da usuário e decide se o menu deve ser trasparente ou com cor, dependendo do lugar onde se encrontra.
+
+➡️Conta também com o backdrop dinâmico, onde é exibido o filme em destaque com todas as infirmações como nota, ano da ultima temporada, quantidade de temporadas e descrição.
+Todas as vezes que o usario carregar a página será exibido um filme ou série diferente.
+
+➡️Os botões de "Assistir" e "Adicionar a Lista" ainda não tem funcionalidades, mas estou pensando em reproduzir o trailer ao clicar em assistir e também criar uma lista de 'favoritos' e adiconar filmes clicando no botão.
