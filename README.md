@@ -1,7 +1,6 @@
 # ⚛️ Netflix Clone com React-Js
-# Nome do meu projeto
 
-Rápida descrição do objetivo de fazer esse projeto
+
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
