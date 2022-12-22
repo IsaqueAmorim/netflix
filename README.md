@@ -1,4 +1,18 @@
 # ⚛️ Netflix Clone com React-Js
+# Nome do meu projeto
+
+Rápida descrição do objetivo de fazer esse projeto
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **MediBrasil API**
+| :label: Tecnologias | Java 17, Spring Boot 3, MySQL
+
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+
+
 
 Olá dev, essa semana me dediquei a esse projeto react que considerei de certa forma até complexo, e fiquei bastante feliz com o resultado. Aprendi bastante no processo de criação desse projeto, pois foram muitos desafios diferentes e vários bugs que tive que resolver, mas que no final me ensinaram muito.
 
