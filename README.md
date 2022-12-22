@@ -5,12 +5,12 @@ Rápida descrição do objetivo de fazer esse projeto
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **MediBrasil API**
-| :label: Tecnologias | Java 17, Spring Boot 3, MySQL
+| :sparkles: Nome        | **NETFLIX CLONE**
+| :label: Tecnologias | JJavaScript, React.js, HTML, CSS, Consumo de API
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://github.com/IsaqueAmorim/netflix-clone/blob/main/screenshots/Header.png#vitrinedev)
 
 
 
