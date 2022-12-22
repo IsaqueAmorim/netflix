@@ -1,16 +1,3 @@
-# NETFLIX CLONE COM REACT
-
-Rápida descrição do objetivo de fazer esse projeto
-
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Nome        | **NETFLIX CLONE**
-| :label: Tecnologias | JavaScript, React, HTML, CSS.
-
-
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://github.com/IsaqueAmorim/netflix-clone/blob/main/screenshots/Captura%20de%20tela%202022-03-30%20180835.png#vitrinedev)
-
 # ⚛️ Netflix Clone com React-Js
 
 Olá dev, essa semana me dediquei a esse projeto react que considerei de certa forma até complexo, e fiquei bastante feliz com o resultado. Aprendi bastante no processo de criação desse projeto, pois foram muitos desafios diferentes e vários bugs que tive que resolver, mas que no final me ensinaram muito.

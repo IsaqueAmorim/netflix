@@ -1,0 +1,38 @@
+.movies__list {
+  margin-top: 50px;
+}
+.movies__list h2 {
+  color: white;
+  font-size: 30px;
+  margin-left: 10px;
+}
+
+.list {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: hidden;
+}
+.list img {
+  width: 300px;
+  transform: scale(95%);
+  transition: 0.2s;
+  cursor: pointer;
+}
+.list img:hover {
+  transform: scale(100%);
+}
+@media (max-width: 1600px) and (min-width: 1000px) {
+  .list img {
+    width: 200px;
+  }
+}
+@media (max-width: 999px) and (min-width: 600px) {
+  .list img {
+    width: 150px;
+  }
+}
+@media (max-width: 599px) and (min-width: 200px) {
+  .list img {
+    width: 150px;
+  }
+}

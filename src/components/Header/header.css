@@ -1,0 +1,125 @@
+.header {
+  width: 100%;
+  height: 60px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 30px;
+
+  position: fixed;
+  z-index: 999999;
+  top: 0;
+
+  transition: all ease-in-out 0.4s;
+}
+.profile {
+  display: flex;
+  align-items: center;
+}
+.profile img {
+  height: 40px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+.logo img {
+  height: 30px;
+  cursor: pointer;
+}
+
+.bbackdrop {
+  width: 100%;
+  height: 100vh;
+}
+
+.wrapper--top {
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(to top, #101010 10%, transparent 90%);
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.wrapper-left {
+  width: inherit;
+  height: inherit;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(to right, #101010 10%, transparent 90%);
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.info {
+  width: 600px;
+  margin-top: 100px;
+  color: white;
+  margin: 0 80px;
+}
+
+.info h2 {
+  font-size: 60px;
+  margin-bottom: 20px;
+}
+.info p {
+  max-height: 150px;
+  overflow-y: hidden;
+  color: #b1b1b1;
+  margin: 10px 0 20px 0;
+  font-size: 25px;
+}
+.buttons :nth-child(1) {
+  width: 150px;
+  height: 40px;
+  font-size: 20px;
+  font-weight: 500;
+  border: none;
+  border-radius: 5px;
+  margin-right: 20px;
+}
+.buttons :nth-child(2) {
+  color: white;
+  background-color: rgb(27, 27, 27);
+  width: 200px;
+  height: 40px;
+  font-size: 20px;
+  font-weight: 500;
+  border: none;
+  border-radius: 5px;
+}
+button {
+  cursor: pointer;
+}
+
+span {
+  margin-right: 80px;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.blackHeader {
+  background-color: #101010;
+}
+
+@media (min-width: 500px) and (max-width: 750px) {
+  span {
+    margin-right: 20px;
+  }
+  button {
+    margin-bottom: 10px;
+  }
+  .info h2 {
+    font-size: 60px;
+  }
+}
+@media (min-width: 200px) and (max-width: 499px) {
+  span {
+    margin-right: 10px;
+  }
+  button {
+    margin-bottom: 10px;
+  }
+  .info h2 {
+    font-size: 60px;
+  }
+}
